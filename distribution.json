@@ -13,7 +13,7 @@
       "description": "Baoforest Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": null,
       "version": "1.0.0",
-      "address": "110.8.41.134:25565",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/HeliosLauncher-IPECTER/BaoForest-Files/raw/refs/heads/main/servers/Baoforest-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.7@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -493,13 +503,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7145205,
-            "url": "https://github.com/HeliosLauncher-IPECTER/BaoForest-Files/raw/refs/heads/main/servers/Baoforest-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            "size": 2851119,
+            "url": "https://github.com/HeliosLauncher-IPECTER/BaoForest-Files/raw/refs/heads/main/servers/Baoforest-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
