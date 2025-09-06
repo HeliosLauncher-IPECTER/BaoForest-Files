@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/CustomLauncher/BaoForest-Files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "BaoForest (Minecraft 1.21.4)",
+    "description": "BaoForest Running Minecraft 1.21.4",
+    "icon": "",
+    "address": "110.8.41.134:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": []
+}
