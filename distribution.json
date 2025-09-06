@@ -13,7 +13,7 @@
       "description": "BaoForest Running Minecraft 1.21.4",
       "icon": null,
       "version": "1.0.0",
-      "address": "110.8.41.134:25565",
+      "address": "baoforest.kro.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
