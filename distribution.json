@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.119.3+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2148367,
+            "url": "https://github.com/HeliosLauncher-IPECTER/BaoForest-Files/raw/refs/heads/main/servers/BaoForest-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
+            "MD5": "179994db46a00373614c47fb669d1dd3"
+          }
+        },
+        {
           "id": "dlovin.inventoryhud:inventoryhud:3.4.27@jar",
           "name": "Inventory HUD +",
           "type": "FabricMod",
